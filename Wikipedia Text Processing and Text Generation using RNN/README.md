@@ -44,9 +44,7 @@ The script performs the following tasks:
 - `gensim`: For loading pre-trained FastText model.
 - `tensorflow`: For building and training SimpleRNN models.
 
-## Example Output
 
-Generated Character-based Text :
 
 Ared Bald B
 
