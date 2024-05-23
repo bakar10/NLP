@@ -1,7 +1,4 @@
 # NLP
-Sure! Here's a simple README for your entire repository, including all the files you provided:
-
----
 
 # Text Processing and Generation
 
