@@ -47,7 +47,4 @@ The script generates text based on specified topics, preprocesses the text, and 
 
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
