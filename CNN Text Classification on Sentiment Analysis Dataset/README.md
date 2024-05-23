@@ -4,6 +4,10 @@
 
 This script performs sentiment analysis on a text dataset using multiple Convolutional Neural Network (CNN) architectures. It includes data preprocessing, model training, and evaluation of three different CNN models with varying complexities.
 
+## DataSet:
+
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
 ## Installation
 
 To use this script, you need to have Python installed on your system. Additionally, you need to install the required libraries. Follow the steps below to set up your environment:
