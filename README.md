@@ -21,5 +21,7 @@ This repository contains Python scripts for text processing and generation tasks
 
 ## Author
 
-github.com/bakar10
+- [Mohamed Abobakr](https://github.com/bakar10)
+- [Nour Hamdy](https://github.com/NourHamdyy)
+- [Mariam Elsabagh](https://github.com/MariamElsbagh)
 
