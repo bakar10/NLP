@@ -47,6 +47,9 @@ The script performs the following tasks:
 ## Example Output
 
 Generated Character-based Text :
+
 Ared Bald B
+
 Generated Word-based Text with Direct Sampling:
+
 lionel guardiola argentine nine since messi youth game contemporary 2007 time
