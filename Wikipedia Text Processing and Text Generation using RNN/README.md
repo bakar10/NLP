@@ -44,10 +44,3 @@ The script performs the following tasks:
 - `gensim`: For loading pre-trained FastText model.
 - `tensorflow`: For building and training SimpleRNN models.
 
-
-
-Ared Bald B
-
-Generated Word-based Text with Direct Sampling:
-
-lionel guardiola argentine nine since messi youth game contemporary 2007 time
